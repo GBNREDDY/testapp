@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="facebook_app_id">1356587617730537</string>
+    <string-array name="myarray">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+</resources>
